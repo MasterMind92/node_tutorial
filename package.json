@@ -1,0 +1,29 @@
+{
+  "name": "node_tutorial_09_05_2023",
+  "version": "1.0.0",
+  "description": "projet test pour apprendre a faire des applications avec node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasterMind92/node_tutorial.git"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "tutorial"
+  ],
+  "author": "Mastermind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MasterMind92/node_tutorial/issues"
+  },
+  "homepage": "https://github.com/MasterMind92/node_tutorial#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "uuid": "^9.0.0"
+  }
+}
